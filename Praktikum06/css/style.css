@@ -1,0 +1,40 @@
+body {
+    background-color: ghostwhite ;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.header {
+    background-color: black;
+    padding:10px;
+}
+h1 {
+    text-align: center;
+     color: red;
+}
+.quote {
+    text-align: center;
+    color: black;
+    border:1px dashed white;
+    background-color: red;
+} 
+.kelompok {
+    list-style-type:none;
+    text-align: center;
+}
+.center {
+    text-align: center;
+    width: 40% ;
+    margin: auto;
+}
+p {
+    text-align: justify;
+}
+.gambar {
+    text-align: center;
+    width: 35% ;
+}
+.promosi {
+    text-align: left;
+}
+#garis {
+    text-decoration: line-through;
+}
